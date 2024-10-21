@@ -1,1 +1,1 @@
-# Peazaa
+# Peaza - Kiosk Ordering App
